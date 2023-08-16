@@ -6,7 +6,14 @@
 
     <groupId>org.example</groupId>
     <artifactId>tz</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>task1</module>
+        <module>task2</module>
+        <module>task3</module>
+        <module>task4</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

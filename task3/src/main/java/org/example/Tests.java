@@ -1,4 +1,4 @@
-package task3;
+package org.example;
 
 import lombok.Data;
 
