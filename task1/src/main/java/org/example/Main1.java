@@ -1,16 +1,9 @@
 package org.example;
 
-import java.util.Scanner;
-
 public class Main1 {
     public static void main(String[] args) {
-        circleArray();
-    }
-
-    public static void circleArray() {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int m = sc.nextInt();
+        int n = Integer.parseInt(args[0]);
+        int m = Integer.parseInt(args[1]);
         int i = 1;
 
         do {

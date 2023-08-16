@@ -12,18 +12,12 @@ import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Scanner;
 
 public class Main3 {
 
     public static void main(String[] args) {
-        parseJson();
-    }
-
-    public static void parseJson() {
-        Scanner sc = new Scanner(System.in);
-        String path1 = sc.nextLine();
-        String path2 = sc.nextLine();
+        String path1 = args[0];
+        String path2 = args[1];
 
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         Map<Long, String> map = new HashMap<>();

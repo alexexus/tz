@@ -7,13 +7,8 @@ import java.util.Scanner;
 public class Main2 {
 
     public static void main(String[] args) {
-        checkDots();
-    }
-
-    public static void checkDots() {
-        Scanner sc = new Scanner(System.in);
-        String path1 = sc.nextLine();
-        String path2 = sc.nextLine();
+        String path1 = args[0];
+        String path2 = args[1];
 
         try {
             Scanner sc1 = new Scanner(new File(path1));

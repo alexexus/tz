@@ -9,12 +9,7 @@ import java.util.Scanner;
 public class Main4 {
 
     public static void main(String[] args) throws FileNotFoundException {
-        nums();
-    }
-
-    public static void nums() throws FileNotFoundException {
-        Scanner sc = new Scanner(System.in);
-        String path = sc.nextLine();
+        String path = args[0];
         List<Integer> list = new ArrayList<>();
 
         Scanner sc1 = new Scanner(new File(path));

@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e8370aa-61b3-45b7-b184-a87cde17a61f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/task1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task4/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/author.txt" beforeDir="false" afterPath="$PROJECT_DIR$/author.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1/src/main/java/org/example/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/task2/src/main/java/org/example/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/task3/src/main/java/org/example/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/task3/src/main/java/org/example/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/task3/src/main/java/org/example/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/task3/src/main/java/org/example/Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/task3/src/main/java/org/example/Values.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/task3/src/main/java/org/example/test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/task3/src/main/java/org/example/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task4/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/src/main/java/org/example/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task4/nums.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task4/src/main/java/org/example/nums.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/src/main/java/org/example/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1/src/main/java/org/example/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/task2/src/main/java/org/example/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +52,7 @@
       <recent name="C:\Users\tnt99\IdeaProjects\tz\task3\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.Main1">
+  <component name="RunManager" selected="Application.org.example.Main3">
     <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task3.Main3" />
       <module name="tz" />
@@ -120,9 +105,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1.Main" />
-      <module name="tz" />
+    <configuration name="org.example.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main3" />
+      <module name="task3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -135,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.Main3" />
         <item itemvalue="Application.org.example.Main1" />
         <item itemvalue="Application.Main4" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.org.example.Main2" />
-        <item itemvalue="Application.task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +138,8 @@
       <updated>1692114528630</updated>
       <workItem from="1692114530677" duration="9642000" />
       <workItem from="1692130821835" duration="191000" />
-      <workItem from="1692188815783" duration="365000" />
+      <workItem from="1692188815783" duration="795000" />
+      <workItem from="1692189963328" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1692124371995</created>
@@ -162,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692124371995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1692189388013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692189388013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
